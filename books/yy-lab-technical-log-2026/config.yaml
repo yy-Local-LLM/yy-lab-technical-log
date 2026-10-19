@@ -1,0 +1,7 @@
+title: "しがない中学生の技術実験録"
+summary: "中古PC、Linux、自宅クラウド、AI、電子工作。気になったものを触っていたら、こうなりました。"
+topics: ["linux", "homelab", "kubernetes", "電子工作", "llm"]
+published: false
+price: 0
+chapters:
+  - 00-introduction
